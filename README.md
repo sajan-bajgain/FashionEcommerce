@@ -16,8 +16,8 @@ MVC Architecture
 
 Group Members:
 
-Anupa Thakuri
-Nirjala Thapa
+Anupa Thakuri,
+Nirjala Thapa,
 Sajan Bajgain
 
 How to Run:
